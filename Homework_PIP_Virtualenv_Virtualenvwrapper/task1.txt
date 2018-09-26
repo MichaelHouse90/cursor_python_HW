@@ -1,0 +1,8 @@
+# Task 1. Install PIP, virtualenv, virtualenvwrapper.
+
+Users-MacBook-Pro:~ user$ pip -V
+pip 18.0 from /Applications/anaconda3/lib/python3.6/site-packages/pip (python 3.6)
+
+Users-MacBook-Pro:~ user$ virtualenv --version
+16.0.0
+

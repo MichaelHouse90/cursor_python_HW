@@ -1,0 +1,40 @@
+#Create two virtual environments using virtualenv. The first env should be for Python 2,  the second one for Python 3.
+
+my_python_project user$ virtualenv -p /usr/bin/python2.7 python2_project
+Running virtualenv with interpreter /usr/bin/python2.7
+New python executable in /Users/user/virtualenvs/my_python_project/python2_project/bin/python
+Installing setuptools, pip, wheel...done.
+
+Users-MacBook-Pro:my_python_project user$ virtualenv python3_project
+Using base prefix '/Applications/anaconda3'
+New python executable in /Users/user/virtualenvs/my_python_project/python3_project/bin/python
+Installing setuptools, pip, wheel...done.
+
+# Activate the first env, run python interpreter and submit a following command:
+
+Users-MacBook-Pro:my_python_project user$ source python2_project/bin/activate
+(python2_project) Users-MacBook-Pro:my_python_project user$ python
+Python 2.7.10 (default, Oct  6 2017, 22:29:07)
+[GCC 4.2.1 Compatible Apple LLVM 9.0.0 (clang-900.0.31)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> print "Hello World"
+Hello World
+>>>
+
+# Activate the second env, run python interpreter and submit a following command:
+
+sers-MacBook-Pro:my_python_project user$ source python3_project/bin/activate
+(python3_project) Users-MacBook-Pro:my_python_project user$ python
+Python 3.6.3 |Anaconda, Inc.| (default, Oct  6 2017, 12:04:38)
+[GCC 4.2.1 Compatible Clang 4.0.1 (tags/RELEASE_401/final)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> print "Hello World"
+  File "<stdin>", line 1
+    print "Hello World"
+                      ^
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print("Hello World")?
+>>>
+
+
+
+

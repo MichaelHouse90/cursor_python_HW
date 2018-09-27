@@ -22,7 +22,7 @@ Hello World
 
 # Activate the second env, run python interpreter and submit a following command:
 
-sers-MacBook-Pro:my_python_project user$ source python3_project/bin/activate
+Users-MacBook-Pro:my_python_project user$ source python3_project/bin/activate
 (python3_project) Users-MacBook-Pro:my_python_project user$ python
 Python 3.6.3 |Anaconda, Inc.| (default, Oct  6 2017, 12:04:38)
 [GCC 4.2.1 Compatible Clang 4.0.1 (tags/RELEASE_401/final)] on darwin

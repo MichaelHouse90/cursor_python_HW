@@ -6,10 +6,5 @@ pip 18.0 from /Applications/anaconda3/lib/python3.6/site-packages/pip (python 3.
 Users-MacBook-Pro:~ user$ virtualenv --version
 16.0.0
 
-sers-MacBook-Pro:~ user$ virtualenvwrapper --version
-
-virtualenvwrapper is a set of extensions to Ian Bicking's virtualenv
-tool.  The extensions include wrappers for creating and deleting
-virtual environments and otherwise managing your development workflow,
-making it easier to work on more than one project at a time without
-introducing conflicts in their dependencies.
+Users-MacBook-Pro:~ user$ pip list | grep virtualenvwrapper
+virtualenvwrapper                  4.8.2

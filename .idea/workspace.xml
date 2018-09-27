@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="710f8cb9-a19e-44b0-b0d8-2e06ec3ae921" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework_PIP_Virtualenv_Virtualenvwrapper/task1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework_PIP_Virtualenv_Virtualenvwrapper/task2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework_PIP_Virtualenv_Virtualenvwrapper/task3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework_PIP_Virtualenv_Virtualenvwrapper/task5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework_PIP_Virtualenv_Virtualenvwrapper/task5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework_PIP_Virtualenv_Virtualenvwrapper/task1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Homework_PIP_Virtualenv_Virtualenvwrapper/task1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework_PIP_Virtualenv_Virtualenvwrapper/task3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Homework_PIP_Virtualenv_Virtualenvwrapper/task3.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +16,10 @@
     <session id="-2049259120">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -39,23 +38,23 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="task1" value="21" />
-          <entry key="txt" value="43" />
+          <entry key="txt" value="44" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="64" />
+          <entry key="PLAIN_TEXT" value="65" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Homework_PIP_Virtualenv_Virtualenvwrapper/task1.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="135">
+              <caret line="9" column="40" lean-forward="true" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -64,7 +63,7 @@
         <entry file="file://$PROJECT_DIR$/Homework_PIP_Virtualenv_Virtualenvwrapper/task2.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="525">
-              <caret line="35" column="3" lean-forward="true" selection-start-line="2" selection-end-line="35" selection-end-column="3" />
+              <caret line="35" column="3" selection-start-line="2" selection-end-line="35" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -72,8 +71,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Homework_PIP_Virtualenv_Virtualenvwrapper/task3.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="405">
+              <caret line="27" column="28" lean-forward="true" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -82,7 +81,7 @@
         <entry file="file://$PROJECT_DIR$/Homework_PIP_Virtualenv_Virtualenvwrapper/task5.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+              <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -91,7 +90,7 @@
         <entry file="file://$PROJECT_DIR$/Homework_PIP_Virtualenv_Virtualenvwrapper/task5.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
+              <caret column="10" selection-start-column="10" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -113,9 +112,10 @@
       <list>
         <option value="$PROJECT_DIR$/Homework_PIP_Virtualenv_Virtualenvwrapper/task1" />
         <option value="$PROJECT_DIR$/Homework_PIP_Virtualenv_Virtualenvwrapper/task2.txt" />
-        <option value="$PROJECT_DIR$/Homework_PIP_Virtualenv_Virtualenvwrapper/task3.txt" />
         <option value="$PROJECT_DIR$/Homework_PIP_Virtualenv_Virtualenvwrapper/task5.py" />
         <option value="$PROJECT_DIR$/Homework_PIP_Virtualenv_Virtualenvwrapper/task5.txt" />
+        <option value="$PROJECT_DIR$/Homework_PIP_Virtualenv_Virtualenvwrapper/task1.txt" />
+        <option value="$PROJECT_DIR$/Homework_PIP_Virtualenv_Virtualenvwrapper/task3.txt" />
       </list>
     </option>
   </component>
@@ -210,13 +210,9 @@
   <component name="ToolWindowManager">
     <frame x="20" y="43" width="1400" height="782" extended-state="0" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24945612" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" weight="0.3289855" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3289855" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3289855" />
@@ -224,6 +220,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3289855" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3289855" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -233,38 +233,38 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Homework_PIP_Virtualenv_Virtualenvwrapper/task1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Homework_PIP_Virtualenv_Virtualenvwrapper/task2.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
-          <caret line="35" column="3" lean-forward="true" selection-start-line="2" selection-end-line="35" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Homework_PIP_Virtualenv_Virtualenvwrapper/task3.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <caret line="35" column="3" selection-start-line="2" selection-end-line="35" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Homework_PIP_Virtualenv_Virtualenvwrapper/task5.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework_PIP_Virtualenv_Virtualenvwrapper/task1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="40" lean-forward="true" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework_PIP_Virtualenv_Virtualenvwrapper/task3.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="28" lean-forward="true" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Homework_PIP_Virtualenv_Virtualenvwrapper/task5.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
+          <caret column="10" selection-start-column="10" selection-end-column="10" />
         </state>
       </provider>
     </entry>

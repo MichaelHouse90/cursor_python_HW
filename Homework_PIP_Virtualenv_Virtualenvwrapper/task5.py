@@ -11,7 +11,7 @@ def funcFizzBuzz():
     elif i % 5 == 0:
       list.append("Buzz")
     else:
-      list.append(i)
+      list.append(str(i))
   print(list)
 
 funcFizzBuzz()

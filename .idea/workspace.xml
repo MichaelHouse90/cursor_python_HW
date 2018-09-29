@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="710f8cb9-a19e-44b0-b0d8-2e06ec3ae921" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework_PIP_Virtualenv_Virtualenvwrapper/task5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homework_PIP_Virtualenv_Virtualenvwrapper/task5.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,13 +16,14 @@
         <counts>
           <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="3" />
+          <entry key="py" value="5" />
           <entry key="task1" value="1" />
           <entry key="txt" value="3" />
         </counts>
@@ -31,12 +31,12 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="4" />
-          <entry key="Python" value="3" />
+          <entry key="Python" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="37" />
+          <entry key="py" value="43" />
           <entry key="task1" value="21" />
           <entry key="txt" value="44" />
         </counts>
@@ -44,27 +44,27 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="65" />
-          <entry key="Python" value="37" />
+          <entry key="Python" value="43" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Homework_GIT/task1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Homework_PIP_Virtualenv_Virtualenvwrapper/task5.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+              <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -89,8 +89,8 @@
         <option value="$PROJECT_DIR$/Homework_PIP_Virtualenv_Virtualenvwrapper/task5.txt" />
         <option value="$PROJECT_DIR$/Homework_PIP_Virtualenv_Virtualenvwrapper/task1.txt" />
         <option value="$PROJECT_DIR$/Homework_PIP_Virtualenv_Virtualenvwrapper/task3.txt" />
-        <option value="$PROJECT_DIR$/Homework_GIT/task1.py" />
         <option value="$PROJECT_DIR$/Homework_PIP_Virtualenv_Virtualenvwrapper/task5.py" />
+        <option value="$PROJECT_DIR$/Homework_GIT/task1.py" />
       </list>
     </option>
   </component>
@@ -105,6 +105,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -131,7 +132,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="RunDashboard">
@@ -234,24 +234,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Homework_PIP_Virtualenv_Virtualenvwrapper/task5.txt">
+    <entry file="file://$PROJECT_DIR$/Homework_PIP_Virtualenv_Virtualenvwrapper/task5.txt" />
+    <entry file="file://$PROJECT_DIR$/Homework_PIP_Virtualenv_Virtualenvwrapper/task5.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
+        <state relative-caret-position="240">
+          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Homework_GIT/task1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Homework_PIP_Virtualenv_Virtualenvwrapper/task5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>

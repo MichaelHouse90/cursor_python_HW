@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="710f8cb9-a19e-44b0-b0d8-2e06ec3ae921" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Homework_GIT/Task1/file2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homework_GIT/Task1/file2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework_GIT/Git-lesson/gcd.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homework_GIT/Git-lesson/gcd.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,15 +16,16 @@
     <session id="-2049259120">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="4" />
+          <entry key="py" value="5" />
           <entry key="task1" value="1" />
           <entry key="txt" value="3" />
         </counts>
@@ -30,13 +33,13 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="4" />
-          <entry key="Python" value="4" />
+          <entry key="Python" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="5" />
-          <entry key="py" value="22" />
+          <entry key="py" value="208" />
           <entry key="task1" value="21" />
           <entry key="txt" value="44" />
         </counts>
@@ -44,7 +47,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="70" />
-          <entry key="Python" value="22" />
+          <entry key="Python" value="208" />
         </counts>
       </usages-collector>
     </session>
@@ -61,7 +64,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Homework_GIT/Task1/file1.py">
+        <entry file="file://$PROJECT_DIR$/Homework_GIT/file1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="2" selection-start-line="2" selection-end-line="2" />
@@ -69,11 +72,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Homework_GIT/Task1/file2.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Homework_GIT/file2.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Homework_GIT/Git-lesson/gcd.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="14" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -88,7 +100,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Homework_GIT/Git-lesson" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -100,15 +112,17 @@
         <option value="$PROJECT_DIR$/Homework_PIP_Virtualenv_Virtualenvwrapper/task1.txt" />
         <option value="$PROJECT_DIR$/Homework_PIP_Virtualenv_Virtualenvwrapper/task3.txt" />
         <option value="$PROJECT_DIR$/Homework_GIT/Task1/file2.py" />
+        <option value="$PROJECT_DIR$/Homework_GIT/Git-lesson/gcd.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="20" />
     <option name="y" value="43" />
     <option name="width" value="1400" />
     <option name="height" value="782" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -131,7 +145,7 @@
               <item name="cursor_python_HW" type="b2602c69:ProjectViewProjectNode" />
               <item name="cursor_python_HW" type="462c0819:PsiDirectoryNode" />
               <item name="Homework_GIT" type="462c0819:PsiDirectoryNode" />
-              <item name="Task1" type="462c0819:PsiDirectoryNode" />
+              <item name="Git-lesson" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cursor_python_HW" type="b2602c69:ProjectViewProjectNode" />
@@ -151,6 +165,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Homework_GIT" />
       <recent name="$PROJECT_DIR$/Homework_GIT/Task1" />
     </key>
   </component>
@@ -166,7 +181,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.gcd">
+    <configuration name="gcd" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="cursor_python_HW" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homework_GIT/Git-lesson" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homework_GIT/Git-lesson/gcd.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="task5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cursor_python_HW" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -188,8 +224,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.task5" />
+      <item itemvalue="Python.gcd" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.gcd" />
         <item itemvalue="Python.task5" />
       </list>
     </recent_temporary>
@@ -208,7 +249,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="20" y="43" width="1400" height="782" extended-state="0" />
+    <frame x="20" y="43" width="1400" height="782" extended-state="1" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24945612" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -255,13 +296,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Homework_PIP_Virtualenv_Virtualenvwrapper/task5.txt" />
-    <entry file="file://$PROJECT_DIR$/Homework_GIT/Task1/file1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Homework_PIP_Virtualenv_Virtualenvwrapper/task5.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -269,10 +303,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Homework_GIT/Task1/file2.py">
+    <entry file="file://$PROJECT_DIR$/Homework_GIT/file1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework_GIT/file2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework_GIT/Git-lesson/gcd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="14" selection-end-column="16" />
         </state>
       </provider>
     </entry>

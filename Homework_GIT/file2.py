@@ -1,3 +1,1 @@
-n = a + b
-"New  content"
-
+n = 5
